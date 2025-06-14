@@ -3,8 +3,9 @@
 
 CloudLens is a React app, that makes possible to take a photo with your device and get a description of it with Groq.
 
+## Screenshot
 
-
+[Screenshot](screenshot.png)
 
 ## Demo
 
